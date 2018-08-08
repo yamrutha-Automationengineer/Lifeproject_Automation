@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111138" started-at="2018-08-08T14:56:35Z" finished-at="2018-08-08T14:58:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111138" started-at="2018-08-08T14:56:35Z" finished-at="2018-08-08T14:58:26Z">
+      <class name="life4ctest.QuotesPagetest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:life4ctest.QuotesPagetest@31ef45e3]" name="setUp" is-config="true" duration-ms="95076" started-at="2018-08-08T14:56:35Z" finished-at="2018-08-08T14:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="IncomeProtectiontest()[pri:7, instance:life4ctest.QuotesPagetest@31ef45e3]" name="IncomeProtectiontest" duration-ms="16049" started-at="2018-08-08T14:58:10Z" finished-at="2018-08-08T14:58:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IncomeProtectiontest -->
+      </class> <!-- life4ctest.QuotesPagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
